@@ -48,12 +48,7 @@ Skills: Model evaluation, interpretation, ROC–AUC analysis.
 
 📂 Output Files
 
-1.Preprocessed_Data.csv
-2.EDA_Charts.png
-3.Segmentation_Results.csv
-4.Trained_Model.pkl
-5.Model_Comparison_Results.xlsx
-6.Evaluation_Report.pdf
+Preprocessed_Data.csv, EDA_Charts.png, Segmentation_Results.csv, Trained_Model.pkl, Model_Comparison_Results.xlsx, Evaluation_Report.pdf
 
 🛠️ Tools & Technologies
 
