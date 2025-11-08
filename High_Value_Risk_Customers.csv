@@ -1,0 +1,579 @@
+customerID,tenure,MonthlyCharges,Contract,Churn
+9305-CDSKC,8,99.65,Month-to-month,Yes
+7892-POOKP,28,104.8,Month-to-month,Yes
+0280-XJGEX,49,103.7,Month-to-month,Yes
+6467-CHFZW,47,99.35,Month-to-month,Yes
+5380-WJKOV,34,106.35,Month-to-month,Yes
+8168-UQWWF,11,97.85,Month-to-month,Yes
+9420-LOJKX,15,99.1,Month-to-month,Yes
+1658-BYGOY,18,95.45,Month-to-month,Yes
+5698-BQJOH,9,94.4,Month-to-month,Yes
+4598-XLKNJ,25,98.5,Month-to-month,Yes
+3192-NQECA,68,110.0,Two year,Yes
+0486-HECZI,55,96.75,Month-to-month,Yes
+5299-RULOA,10,100.25,Month-to-month,Yes
+3874-EQOEP,7,95.0,Month-to-month,Yes
+1875-QIVME,2,104.4,Month-to-month,Yes
+0691-JVSYA,53,94.85,One year,Yes
+2472-OVKUP,6,91.0,Month-to-month,Yes
+7825-ECJRF,19,106.6,Month-to-month,Yes
+0094-OIFMO,11,95.0,Month-to-month,Yes
+3606-TWKGI,13,106.9,Month-to-month,Yes
+4385-GZQXV,16,94.45,Month-to-month,Yes
+4484-GLZOU,52,105.05,Month-to-month,Yes
+9512-UIBFX,18,95.15,Month-to-month,Yes
+8098-LLAZX,4,95.45,Month-to-month,Yes
+2840-XANRC,24,93.15,Month-to-month,Yes
+6680-NENYN,43,104.6,Two year,Yes
+1343-EHPYB,63,103.4,Month-to-month,Yes
+2034-GDRCN,2,90.4,Month-to-month,Yes
+1010-DIAUQ,5,96.5,Month-to-month,Yes
+9601-BRXPO,25,104.95,Month-to-month,Yes
+5167-ZFFMM,1,90.85,Month-to-month,Yes
+0979-PHULV,69,99.45,Month-to-month,Yes
+7752-XUSCI,60,105.9,Month-to-month,Yes
+0880-TKATG,4,101.15,Month-to-month,Yes
+3811-VBYBZ,7,99.8,Month-to-month,Yes
+0306-JAELE,5,96.1,Month-to-month,Yes
+7783-YKGDV,12,99.7,Month-to-month,Yes
+5609-CEBID,20,94.1,Month-to-month,Yes
+7218-HKQFK,2,94.2,Month-to-month,Yes
+9412-GHEEC,40,104.8,Month-to-month,Yes
+8397-MVTAZ,34,100.05,Month-to-month,Yes
+0939-YAPAF,35,100.25,Month-to-month,Yes
+4710-FDUIZ,56,100.3,One year,Yes
+3419-SNJJD,65,105.25,Month-to-month,Yes
+4554-YGZIH,49,90.05,Month-to-month,Yes
+5099-BAILX,43,110.75,Month-to-month,Yes
+7207-RMRDB,65,105.5,Month-to-month,Yes
+4913-EHYUI,56,104.55,One year,Yes
+1626-ERCMM,20,94.55,Month-to-month,Yes
+5244-IRFIH,33,94.5,Month-to-month,Yes
+2684-EIWEO,30,91.7,Month-to-month,Yes
+5138-WVKYJ,10,98.55,Month-to-month,Yes
+6683-VLCTZ,20,98.55,Month-to-month,Yes
+0236-HFWSV,15,93.35,Month-to-month,Yes
+2037-XJFUP,33,95.8,One year,Yes
+0691-IFBQW,46,110.0,One year,Yes
+3009-JWMPU,62,96.75,One year,Yes
+1450-GALXR,10,98.5,Month-to-month,Yes
+4289-DTDKW,40,101.3,Month-to-month,Yes
+2239-JALAW,58,103.25,One year,Yes
+4853-RULSV,70,104.0,Two year,Yes
+0115-TFERT,21,111.2,Month-to-month,Yes
+3643-AHCFP,7,95.6,Month-to-month,Yes
+3104-OWCGK,60,90.95,One year,Yes
+9101-BWFSS,50,108.55,One year,Yes
+0727-BMPLR,55,100.0,One year,Yes
+3027-ZTDHO,1,89.9,Month-to-month,Yes
+2382-BCKQJ,62,100.15,One year,Yes
+9944-HKVVB,3,95.1,Month-to-month,Yes
+4124-MMETB,22,94.65,Month-to-month,Yes
+0207-MDKNV,15,105.1,Month-to-month,Yes
+9851-KIELU,10,110.1,Month-to-month,Yes
+7549-MYGPK,63,100.55,Month-to-month,Yes
+3804-RVTGV,50,103.85,Month-to-month,Yes
+4315-MURBD,12,98.9,Month-to-month,Yes
+9734-YWGEX,9,98.3,Month-to-month,Yes
+2719-BDAQO,17,93.85,Month-to-month,Yes
+0781-LKXBR,9,100.5,Month-to-month,Yes
+7028-DVOIQ,35,99.05,Month-to-month,Yes
+9889-TMAHG,8,100.3,Month-to-month,Yes
+3158-MOERK,2,96.0,Month-to-month,Yes
+7294-TMAOP,1,90.55,Month-to-month,Yes
+2834-JRTUA,71,108.05,Two year,Yes
+6646-QVXLR,62,103.75,One year,Yes
+1374-DMZUI,4,94.3,Month-to-month,Yes
+8357-EQXFO,7,95.35,Month-to-month,Yes
+9524-EGPJC,18,90.1,Month-to-month,Yes
+8818-XYFCQ,32,99.55,Month-to-month,Yes
+4822-RVYBB,8,100.6,Month-to-month,Yes
+4145-UQXUQ,8,92.1,Month-to-month,Yes
+1236-WFCDV,14,90.45,Month-to-month,Yes
+5981-ITEMU,40,97.1,Month-to-month,Yes
+0376-YMCJC,23,90.6,Month-to-month,Yes
+0634-SZPQA,23,90.05,Month-to-month,Yes
+5536-RTPWK,49,99.05,Month-to-month,Yes
+0655-RBDUG,7,98.05,Month-to-month,Yes
+4361-BKAXE,41,114.5,Month-to-month,Yes
+7029-RPUAV,17,100.45,Month-to-month,Yes
+4607-CHPCA,25,90.4,One year,Yes
+9763-PDTKK,4,94.4,Month-to-month,Yes
+8111-SLLHI,39,105.65,Month-to-month,Yes
+5293-WXJAK,11,104.05,Month-to-month,Yes
+7851-WZEKY,2,95.15,Month-to-month,Yes
+8844-TONUD,13,96.65,Month-to-month,Yes
+6270-OMFIW,60,94.4,One year,Yes
+3992-YWPKO,6,109.9,Month-to-month,Yes
+0125-LZQXK,15,101.35,Month-to-month,Yes
+1579-KLYDT,7,90.45,Month-to-month,Yes
+3927-NLNRY,53,94.25,One year,Yes
+7979-CORPM,24,90.55,Month-to-month,Yes
+5565-FILXA,16,96.15,Month-to-month,Yes
+7321-PKUYW,11,90.15,Month-to-month,Yes
+4187-CINZD,46,95.25,One year,Yes
+2408-TZMJL,59,110.15,One year,Yes
+0201-OAMXR,70,115.55,One year,Yes
+6393-WRYZE,34,97.65,Month-to-month,Yes
+6599-RCLCJ,47,109.55,Month-to-month,Yes
+4791-QRGMF,59,99.5,One year,Yes
+3838-OZURD,66,105.0,Month-to-month,Yes
+7943-RQCHR,9,94.75,Month-to-month,Yes
+3793-MMFUH,13,95.05,Month-to-month,Yes
+8621-MNIHH,34,94.25,Month-to-month,Yes
+9518-RWHZL,64,100.05,One year,Yes
+5419-CONWX,4,99.8,Month-to-month,Yes
+7024-OHCCK,2,93.85,Month-to-month,Yes
+0680-DFNNY,15,101.1,Month-to-month,Yes
+1571-SAVHK,12,99.95,Month-to-month,Yes
+9546-CQJSU,2,91.4,Month-to-month,Yes
+3473-XIIIT,16,100.0,Month-to-month,Yes
+5394-SVGJV,37,98.8,Month-to-month,Yes
+7079-QRCBC,24,98.75,Month-to-month,Yes
+5469-CTCWN,61,106.0,One year,Yes
+9851-QXEEQ,41,104.7,Month-to-month,Yes
+9809-IMGCQ,22,96.7,Month-to-month,Yes
+3703-VAVCL,2,90.0,Month-to-month,Yes
+6326-MTTXK,8,100.85,Month-to-month,Yes
+2886-KEFUM,63,107.5,One year,Yes
+9651-GTSAQ,53,106.1,One year,Yes
+3186-BAXNB,1,91.7,Month-to-month,Yes
+0637-YLETY,16,95.6,Month-to-month,Yes
+2660-EMUBI,10,95.35,Month-to-month,Yes
+2003-CKLOR,66,99.5,Month-to-month,Yes
+9254-RBFON,17,98.6,One year,Yes
+6032-KRXXO,30,90.25,Month-to-month,Yes
+8017-LXHFA,23,94.75,Month-to-month,Yes
+2929-QNSRW,56,98.25,One year,Yes
+1899-VXWXM,48,106.1,One year,Yes
+3331-HQDTW,34,109.8,Month-to-month,Yes
+1228-FZFRV,50,105.95,Month-to-month,Yes
+5364-XYIRR,51,94.65,Month-to-month,Yes
+4829-AUOAX,46,96.05,Month-to-month,Yes
+9158-VCTQB,41,113.6,Month-to-month,Yes
+6097-EQISJ,66,102.45,One year,Yes
+4423-YLHDV,21,104.4,Month-to-month,Yes
+0107-YHINA,1,99.75,Month-to-month,Yes
+9436-ZBZCT,14,89.95,Month-to-month,Yes
+7279-BUYWN,41,113.2,Month-to-month,Yes
+7156-MHUGY,13,90.5,Month-to-month,Yes
+9172-ANCRX,10,98.7,Month-to-month,Yes
+6365-MTGZX,24,96.0,Month-to-month,Yes
+6990-YNRIO,65,108.65,Two year,Yes
+8840-DQLGN,35,100.5,Month-to-month,Yes
+3143-ILDAL,56,94.45,Month-to-month,Yes
+6651-AZVTJ,49,99.8,Month-to-month,Yes
+4566-GOLUK,47,107.35,Month-to-month,Yes
+9614-RMGHA,65,91.85,Month-to-month,Yes
+9497-QCMMS,1,93.55,Month-to-month,Yes
+0348-SDKOL,58,102.1,Month-to-month,Yes
+4373-MAVJG,14,90.9,Month-to-month,Yes
+3424-NMNBO,58,108.85,One year,Yes
+1447-PJGGA,57,95.25,Two year,Yes
+9139-WQQDY,49,100.45,One year,Yes
+6845-RGTYS,47,98.75,Month-to-month,Yes
+7694-VLBWQ,67,104.1,One year,Yes
+6481-OGDOO,67,90.6,One year,Yes
+9172-JITSM,26,90.8,Month-to-month,Yes
+9961-JBNMK,21,96.8,Month-to-month,Yes
+6356-ELRKD,1,95.6,Month-to-month,Yes
+6179-GJPSO,43,108.15,Month-to-month,Yes
+8290-YWKHZ,32,93.2,Month-to-month,Yes
+2153-MREFK,37,99.2,One year,Yes
+8945-MUQUF,51,94.8,One year,Yes
+4021-RQSNY,29,98.5,Month-to-month,Yes
+9061-TIHDA,13,95.25,Month-to-month,Yes
+3988-RQIXO,1,91.3,Month-to-month,Yes
+2659-VXMWZ,67,111.3,One year,Yes
+3207-OYBWH,57,95.25,Month-to-month,Yes
+7216-EWTRS,1,100.8,Month-to-month,Yes
+8182-BJDSI,28,89.95,Month-to-month,Yes
+7181-BQYBV,1,102.45,Month-to-month,Yes
+2506-CLAKW,6,98.15,Month-to-month,Yes
+1583-IHQZE,12,112.95,Month-to-month,Yes
+0320-JDNQG,23,99.85,Month-to-month,Yes
+3571-RFHAR,65,109.15,Month-to-month,Yes
+1587-FKLZB,66,99.5,Month-to-month,Yes
+4307-KTUMW,53,93.9,Month-to-month,Yes
+5440-FLBQG,69,108.4,Two year,Yes
+2027-FECZV,12,106.7,Month-to-month,Yes
+3870-MQAMG,54,110.35,One year,Yes
+4800-CZMPC,48,103.25,One year,Yes
+8949-JTMAY,29,98.6,Month-to-month,Yes
+4612-THJBS,56,104.75,One year,Yes
+4094-NSEDU,21,94.25,Month-to-month,Yes
+3757-NJYBX,32,106.35,Month-to-month,Yes
+5136-KCKGI,33,103.7,One year,Yes
+2929-ERCFZ,8,94.2,Month-to-month,Yes
+7548-SEPYI,5,96.25,Month-to-month,Yes
+9898-KZQDZ,40,94.55,Month-to-month,Yes
+5236-PERKL,57,112.95,Two year,Yes
+2519-FAKOD,38,99.25,Month-to-month,Yes
+7089-IVVAZ,8,103.35,Month-to-month,Yes
+1254-IZEYF,31,99.95,Month-to-month,Yes
+9492-TOKRI,18,90.0,Month-to-month,Yes
+9221-OTIVJ,14,104.85,Month-to-month,Yes
+3325-FUYCG,28,106.1,One year,Yes
+1323-OOEPC,53,98.4,Month-to-month,Yes
+0397-GZBBC,59,93.85,Month-to-month,Yes
+7641-EUYET,46,100.7,Month-to-month,Yes
+8245-UMPYT,16,96.4,Month-to-month,Yes
+0952-KMEEH,13,98.15,Month-to-month,Yes
+8178-EYZUO,46,93.7,Month-to-month,Yes
+5130-IEKQT,25,105.95,Month-to-month,Yes
+0407-BDJKB,60,95.75,Month-to-month,Yes
+9600-UDOPK,30,94.05,Month-to-month,Yes
+3269-ATYWD,39,95.65,Month-to-month,Yes
+4910-GMJOT,1,94.6,Month-to-month,Yes
+0354-WYROK,31,98.9,Month-to-month,Yes
+4446-BZKHU,61,105.55,Month-to-month,Yes
+3351-NQLDI,67,94.35,One year,Yes
+3336-JORSO,33,110.45,Month-to-month,Yes
+6861-XWTWQ,7,99.25,Month-to-month,Yes
+6769-DCQLI,52,105.0,One year,Yes
+4873-ILOLJ,24,90.35,Month-to-month,Yes
+2725-KXXWT,1,90.75,Month-to-month,Yes
+4659-NZRUF,19,95.15,Month-to-month,Yes
+8429-XIBUM,22,101.35,Month-to-month,Yes
+7938-OUHIO,3,98.7,Month-to-month,Yes
+8510-AWCXC,13,100.8,Month-to-month,Yes
+0431-APWVY,28,90.1,One year,Yes
+3387-VATUS,5,94.85,Month-to-month,Yes
+6857-VWJDT,1,95.65,Month-to-month,Yes
+6100-QQHEB,17,92.55,Month-to-month,Yes
+7295-JOMMD,4,98.1,Month-to-month,Yes
+5013-SBUIH,50,109.65,Two year,Yes
+6023-YEBUP,3,100.95,Month-to-month,Yes
+7209-JCUDS,10,94.9,Month-to-month,Yes
+3001-CBHLQ,32,104.9,Month-to-month,Yes
+3763-GCZHZ,66,104.05,One year,Yes
+4831-EOBFE,29,94.65,Month-to-month,Yes
+2454-RPBRZ,12,98.1,Month-to-month,Yes
+2265-CYWIV,4,99.6,Month-to-month,Yes
+2672-HUYVI,6,91.1,Month-to-month,Yes
+0148-DCDOS,25,94.7,Month-to-month,Yes
+0310-MVLET,61,99.15,Month-to-month,Yes
+4550-VBOFE,70,102.95,Month-to-month,Yes
+7780-OTDSO,18,99.4,Month-to-month,Yes
+0564-JJHGS,9,95.5,Month-to-month,Yes
+3348-CFRNX,28,92.35,Month-to-month,Yes
+2845-AFFTX,41,99.8,Month-to-month,Yes
+2249-YPRNG,20,105.85,Month-to-month,Yes
+4626-GYCZP,7,93.85,Month-to-month,Yes
+5590-BYNII,22,100.75,Month-to-month,Yes
+0596-BQCEQ,62,100.15,Month-to-month,Yes
+1481-ZUWZA,28,94.5,Month-to-month,Yes
+1891-FZYSA,69,89.95,Month-to-month,Yes
+7317-GGVPB,71,108.6,Two year,Yes
+8118-LSUEL,23,106.4,Month-to-month,Yes
+5052-PNLOS,3,105.35,Month-to-month,Yes
+8809-RIHDD,72,103.4,Two year,Yes
+4803-AXVYP,38,99.55,Month-to-month,Yes
+5649-ANRML,2,95.1,Month-to-month,Yes
+4236-XPXAV,5,99.15,Month-to-month,Yes
+8393-DLHGA,25,95.9,Month-to-month,Yes
+0895-DQHEW,54,104.3,Month-to-month,Yes
+8149-RSOUN,1,93.85,Month-to-month,Yes
+5519-NPHVG,12,94.2,Month-to-month,Yes
+8849-GYOKR,54,106.55,One year,Yes
+9710-ZUSHQ,37,106.75,Month-to-month,Yes
+3902-FOIGH,12,101.35,Month-to-month,Yes
+3318-OSATS,35,95.45,Month-to-month,Yes
+5828-AVIPD,19,100.95,One year,Yes
+7774-OJSXI,31,103.45,One year,Yes
+8276-MQBYC,51,97.8,Month-to-month,Yes
+0337-CNPZE,41,106.3,Month-to-month,Yes
+0897-FEGMU,11,99.5,Month-to-month,Yes
+5519-YLDGW,21,103.9,Month-to-month,Yes
+5178-LMXOP,1,95.1,Month-to-month,Yes
+7526-BEZQB,12,96.05,Month-to-month,Yes
+7056-IMHCC,53,101.9,Month-to-month,Yes
+8749-JMNKX,51,93.8,Month-to-month,Yes
+2430-USGXP,24,101.05,Month-to-month,Yes
+5955-ERIHD,18,94.7,Month-to-month,Yes
+0917-EZOLA,72,104.15,Two year,Yes
+7274-RTAPZ,1,90.55,Month-to-month,Yes
+8414-MYSHR,5,91.4,Month-to-month,Yes
+7599-FKVXZ,42,106.15,Month-to-month,Yes
+0748-RDGGM,70,109.5,One year,Yes
+5889-JTMUL,50,95.05,Month-to-month,Yes
+2165-VOEGB,46,105.2,One year,Yes
+8914-RBTSB,31,93.8,Month-to-month,Yes
+0963-ZBDRN,32,96.2,Month-to-month,Yes
+6210-KBBPI,9,99.45,Month-to-month,Yes
+2612-RANWT,12,100.15,Month-to-month,Yes
+6900-PXRMS,26,105.75,Month-to-month,Yes
+1771-OADNZ,29,95.9,Month-to-month,Yes
+1723-HKXJQ,42,101.75,Month-to-month,Yes
+4433-JCGCG,46,101.0,Month-to-month,Yes
+6849-OYAMU,19,100.0,One year,Yes
+1150-WFARN,67,108.75,Two year,Yes
+6688-UZPWD,11,102.0,Month-to-month,Yes
+9057-SIHCH,3,96.6,Month-to-month,Yes
+6771-XWBDM,57,104.5,Month-to-month,Yes
+2645-QTLMB,7,94.25,Month-to-month,Yes
+4424-TKOPW,2,93.85,Month-to-month,Yes
+0684-AOSIH,1,95.0,Month-to-month,Yes
+1866-RZZQS,41,98.4,Month-to-month,Yes
+4958-XCBDQ,35,101.4,Month-to-month,Yes
+1725-IQNIY,54,109.75,Two year,Yes
+6712-OAWRH,26,91.25,Month-to-month,Yes
+2533-QVMSK,61,94.1,Two year,Yes
+8625-AZYZY,24,104.65,Month-to-month,Yes
+8374-XGEJJ,43,101.0,Month-to-month,Yes
+2656-TABEH,4,100.2,Month-to-month,Yes
+3932-CMDTD,4,105.65,One year,Yes
+4039-HEUNW,36,96.5,Month-to-month,Yes
+5089-IFSDP,58,109.45,Two year,Yes
+4817-VYYWS,30,100.2,Month-to-month,Yes
+5299-SJCZT,3,101.55,Month-to-month,Yes
+2403-BCASL,41,111.95,One year,Yes
+3886-CERTZ,72,109.25,One year,Yes
+8938-UMKPI,47,106.4,Month-to-month,Yes
+6319-IEJWJ,20,90.2,Month-to-month,Yes
+9025-AOMKI,6,93.55,Month-to-month,Yes
+5655-JSMZM,49,96.2,Month-to-month,Yes
+4587-VVTOX,6,105.3,Month-to-month,Yes
+8868-WOZGU,28,105.7,Month-to-month,Yes
+1731-TVIUK,4,93.5,Month-to-month,Yes
+0406-BPDVR,54,101.5,One year,Yes
+6615-NGGZJ,14,100.55,Month-to-month,Yes
+3045-XETSH,10,94.85,Month-to-month,Yes
+0946-CLJTI,58,98.7,Month-to-month,Yes
+0324-BRPCJ,68,100.2,Month-to-month,Yes
+9189-JWSHV,24,93.55,Month-to-month,Yes
+0576-WNXXC,27,95.55,Month-to-month,Yes
+2748-MYRVK,63,99.9,One year,Yes
+3663-MITLP,15,101.25,Month-to-month,Yes
+4902-OHLSK,29,98.65,Month-to-month,Yes
+2357-COQEK,28,103.3,Month-to-month,Yes
+3737-GCSPV,11,96.2,Month-to-month,Yes
+4088-YLDSU,55,104.15,One year,Yes
+2034-CGRHZ,24,102.95,Month-to-month,Yes
+5797-APWZC,1,90.6,Month-to-month,Yes
+4228-ZGYUW,4,90.05,Month-to-month,Yes
+1567-DSCIC,8,94.0,Month-to-month,Yes
+9360-AHGNL,43,109.55,One year,Yes
+2632-UCGVD,66,100.05,Month-to-month,Yes
+5445-PZWGX,62,102.0,One year,Yes
+9170-CCKOU,17,90.2,Month-to-month,Yes
+6425-YQLLO,66,105.95,One year,Yes
+5442-UTCVD,3,91.85,Month-to-month,Yes
+6899-PPEEA,37,96.55,Month-to-month,Yes
+4597-NUCQV,24,101.25,Month-to-month,Yes
+2979-SXESE,17,94.4,Month-to-month,Yes
+7481-ATQQS,49,90.85,Month-to-month,Yes
+5502-RLUYV,69,103.95,Month-to-month,Yes
+5449-FIBXJ,19,103.3,Month-to-month,Yes
+6543-XRMYR,30,99.7,Month-to-month,Yes
+1455-UGQVH,10,98.5,Month-to-month,Yes
+2037-SGXHH,38,94.65,Month-to-month,Yes
+3178-FESZO,1,100.25,Month-to-month,Yes
+1264-BYWMS,55,96.8,Month-to-month,Yes
+9658-WYUFB,17,94.4,Month-to-month,Yes
+8580-QVLOC,72,92.45,Two year,Yes
+2012-NWRPA,11,99.55,Month-to-month,Yes
+3934-HXCFZ,23,99.25,Month-to-month,Yes
+9647-ERGBE,30,100.05,Month-to-month,Yes
+4658-HCOHW,21,102.8,Month-to-month,Yes
+3440-JPSCL,6,99.95,Month-to-month,Yes
+2889-FPWRM,72,117.8,One year,Yes
+0325-XBFAC,8,94.7,Month-to-month,Yes
+2462-XIIJB,5,92.5,Month-to-month,Yes
+5219-YIPTK,33,104.4,Month-to-month,Yes
+3393-FMZPV,25,100.25,Month-to-month,Yes
+6402-ZFPPI,25,102.8,Month-to-month,Yes
+7486-KSRVI,43,100.0,One year,Yes
+8443-WVPSS,10,99.85,Month-to-month,Yes
+3006-XIMLN,2,94.2,Month-to-month,Yes
+6305-YLBMM,69,104.05,One year,Yes
+3647-GMGDH,22,94.7,Month-to-month,Yes
+3791-LGQCY,56,100.65,Month-to-month,Yes
+2369-UAPKZ,5,104.1,Month-to-month,Yes
+5480-TBGPH,24,99.3,Month-to-month,Yes
+7067-KSAZT,65,106.25,One year,Yes
+9300-AGZNL,1,94.0,Month-to-month,Yes
+7270-BDIOA,22,90.0,Month-to-month,Yes
+3389-YGYAI,8,105.5,Month-to-month,Yes
+5380-AFSSK,5,93.9,Month-to-month,Yes
+8714-EUHJO,31,91.15,Month-to-month,Yes
+2568-OIADY,37,99.5,Month-to-month,Yes
+2302-ANTDP,48,117.45,Month-to-month,Yes
+5923-GXUOC,10,104.4,Month-to-month,Yes
+7330-WZLNC,5,90.8,Month-to-month,Yes
+3957-LXOLK,28,106.15,Month-to-month,Yes
+5281-BUZGT,36,90.85,Month-to-month,Yes
+4735-ASGMA,26,98.35,Month-to-month,Yes
+6892-EZDTG,4,91.65,Month-to-month,Yes
+9725-SCPZG,1,90.85,Month-to-month,Yes
+3217-FZDMN,8,94.45,Month-to-month,Yes
+7480-QNVZJ,50,95.7,Month-to-month,Yes
+7124-UGSUR,61,104.4,One year,Yes
+1502-XFCVR,58,106.45,One year,Yes
+9692-TUSXH,18,96.05,Month-to-month,Yes
+2359-QWQUL,39,104.7,One year,Yes
+6101-IMRMM,6,94.5,Month-to-month,Yes
+4325-NFSKC,19,90.6,Month-to-month,Yes
+7762-URZQH,66,106.05,Two year,Yes
+6907-NZZIJ,36,99.15,Month-to-month,Yes
+1644-IRKSF,33,93.8,One year,Yes
+6502-HCJTI,7,94.7,Month-to-month,Yes
+2995-UPRYS,40,99.2,One year,Yes
+2982-VPSGI,11,94.0,Month-to-month,Yes
+8199-ZLLSA,67,118.35,One year,Yes
+5980-NOPLP,44,96.1,Month-to-month,Yes
+6892-XPFPU,24,104.25,Month-to-month,Yes
+9874-QLCLH,17,104.2,Month-to-month,Yes
+8327-LZKAS,43,107.55,One year,Yes
+1075-BGWOH,16,98.75,Month-to-month,Yes
+0302-JOIVN,8,101.15,Month-to-month,Yes
+4971-PUYQO,27,94.55,Month-to-month,Yes
+1527-SXDPN,52,96.25,Two year,Yes
+6029-WTIPC,37,101.1,Month-to-month,Yes
+8634-CILSZ,69,104.7,One year,Yes
+8780-IXSTS,6,90.1,Month-to-month,Yes
+3049-SOLAY,3,95.2,Month-to-month,Yes
+5569-OUICF,28,101.3,Month-to-month,Yes
+5747-PMBSQ,10,92.5,Month-to-month,Yes
+6386-SZZKH,49,107.95,Two year,Yes
+5649-VUKMC,12,95.5,One year,Yes
+9050-QLROH,18,90.7,Month-to-month,Yes
+0877-SDMBN,54,103.95,One year,Yes
+7450-NWRTR,12,99.45,Month-to-month,Yes
+2722-VOJQL,64,105.65,One year,Yes
+5959-BELXA,32,96.15,Month-to-month,Yes
+9574-RKJIF,30,94.4,Month-to-month,Yes
+6804-GDMOI,61,106.6,Two year,Yes
+9572-MTILT,59,106.75,Month-to-month,Yes
+0329-GTIAJ,3,97.9,Month-to-month,Yes
+2225-ZRGSG,70,93.9,Two year,Yes
+5271-YNWVR,68,113.15,Two year,Yes
+6284-AHOOQ,22,90.5,Month-to-month,Yes
+2344-JMOGN,9,94.85,Month-to-month,Yes
+4391-RESHN,23,104.05,Month-to-month,Yes
+6821-BUXUX,13,96.65,Month-to-month,Yes
+9801-GDWGV,39,103.45,Month-to-month,Yes
+0193-ESZXP,58,105.5,One year,Yes
+1984-FCOWB,70,109.5,One year,Yes
+0654-HMSHN,21,104.4,Month-to-month,Yes
+5287-QWLKY,71,105.1,Month-to-month,Yes
+1891-UAWWU,20,90.8,Month-to-month,Yes
+6108-OQZDQ,4,97.95,Month-to-month,Yes
+0363-QJVFX,32,108.15,Month-to-month,Yes
+3096-JRDSO,27,104.3,Month-to-month,Yes
+5883-GTGVD,19,99.95,Month-to-month,Yes
+1265-XTECC,68,96.55,One year,Yes
+2237-ZFSMY,39,95.55,One year,Yes
+3500-RMZLT,15,96.3,Month-to-month,Yes
+9846-GKXAS,9,90.8,Month-to-month,Yes
+7969-AULMZ,21,97.35,Month-to-month,Yes
+2968-SSGAA,10,100.6,Month-to-month,Yes
+6777-TGHTM,53,106.95,One year,Yes
+8610-WFCJF,49,95.6,Month-to-month,Yes
+7881-INRLC,45,100.85,Month-to-month,Yes
+0011-IGKFF,13,98.0,Month-to-month,Yes
+4192-GORJT,5,94.45,Month-to-month,Yes
+6496-SLWHQ,3,105.0,Month-to-month,Yes
+9912-GVSEQ,26,93.85,Month-to-month,Yes
+3640-PHQXK,31,89.9,Month-to-month,Yes
+8019-ENHXU,42,99.45,Month-to-month,Yes
+5567-WSELE,3,94.6,Month-to-month,Yes
+8063-RJYNF,16,94.25,Month-to-month,Yes
+9661-ACXBS,42,105.2,Month-to-month,Yes
+6646-VRFOL,53,103.85,Month-to-month,Yes
+4250-ZBWLV,68,108.45,One year,Yes
+5095-AESKG,3,91.5,Month-to-month,Yes
+9090-SGQXL,68,105.3,Month-to-month,Yes
+9835-ZIITK,66,110.85,One year,Yes
+1555-DJEQW,70,114.2,Two year,Yes
+9253-QXKBE,29,94.45,Month-to-month,Yes
+9445-SZLCH,36,97.35,Month-to-month,Yes
+5349-IECLD,2,94.95,Month-to-month,Yes
+4523-WXCEF,59,101.1,Month-to-month,Yes
+8775-LHDJH,1,90.6,Month-to-month,Yes
+3565-UNOCC,29,99.05,Month-to-month,Yes
+9249-FXSCK,52,111.25,One year,Yes
+0871-URUWO,13,102.25,Month-to-month,Yes
+9190-MFJLN,19,95.9,Month-to-month,Yes
+1095-JUDTC,47,95.05,Month-to-month,Yes
+5385-SUIRI,52,104.2,Month-to-month,Yes
+4009-ALQFH,25,99.5,Month-to-month,Yes
+7562-GSUHK,16,93.2,Month-to-month,Yes
+4077-CROMM,31,104.2,Month-to-month,Yes
+6328-ZPBGN,11,95.15,Month-to-month,Yes
+4789-KWMXN,47,110.85,One year,Yes
+7547-EKNFS,42,95.25,Month-to-month,Yes
+2446-BEGGB,6,98.25,Month-to-month,Yes
+9681-OXGVC,5,100.5,Month-to-month,Yes
+6521-YYTYI,1,93.3,Month-to-month,Yes
+6956-SMUCM,3,99.0,Month-to-month,Yes
+9053-JZFKV,67,116.2,Two year,Yes
+2530-ENDWQ,71,93.7,Two year,Yes
+1597-LHYNC,26,95.0,Month-to-month,Yes
+7055-VKGDA,54,105.4,One year,Yes
+0754-UKWQP,2,95.85,Month-to-month,Yes
+4558-FANTW,17,91.85,Month-to-month,Yes
+8651-ENBZX,60,106.0,One year,Yes
+9330-IJWIO,13,100.35,Month-to-month,Yes
+1842-EZJMK,50,103.7,Month-to-month,Yes
+8884-ADFVN,7,101.95,Month-to-month,Yes
+2720-WGKHP,2,94.0,Month-to-month,Yes
+0702-PGIBZ,4,101.7,Month-to-month,Yes
+3058-HJCUY,41,102.6,One year,Yes
+3259-FDWOY,71,106.0,Two year,Yes
+5748-RNCJT,69,106.5,Two year,Yes
+7739-LAXOG,32,91.05,Month-to-month,Yes
+3685-YLCMQ,58,104.65,One year,Yes
+8634-MPHTR,47,100.05,Month-to-month,Yes
+8761-NSOBC,44,100.55,Month-to-month,Yes
+8413-VONUO,2,95.65,Month-to-month,Yes
+9223-UCPVT,1,94.4,Month-to-month,Yes
+5419-JPRRN,1,101.45,Month-to-month,Yes
+2474-BRUCM,40,101.85,Month-to-month,Yes
+5708-EVONK,58,93.4,Month-to-month,Yes
+8708-XPXHZ,42,94.2,Month-to-month,Yes
+2754-VDLTR,10,95.2,Month-to-month,Yes
+3190-XFANI,49,100.6,One year,Yes
+0520-FDVVT,35,102.35,One year,Yes
+1444-VVSGW,70,115.65,One year,Yes
+6661-HBGWL,42,104.75,Month-to-month,Yes
+1309-BXVOQ,21,106.1,Month-to-month,Yes
+3621-CEOVK,14,100.2,Month-to-month,Yes
+0023-XUOPT,13,94.1,Month-to-month,Yes
+7632-MNYOY,66,110.9,One year,Yes
+6518-LGAOV,38,105.0,Month-to-month,Yes
+9600-NAXZN,43,101.4,Month-to-month,Yes
+3398-FSHON,12,91.3,Month-to-month,Yes
+3319-DWOEP,6,95.75,Month-to-month,Yes
+1465-VINDH,10,102.1,Month-to-month,Yes
+9412-ARGBX,48,95.5,Two year,Yes
+1389-CXMLU,3,91.05,Month-to-month,Yes
+3768-NLUBH,57,100.6,Month-to-month,Yes
+2180-DXNEG,12,96.0,Month-to-month,Yes
+5515-AKOAJ,54,100.1,Month-to-month,Yes
+3990-QYKBE,37,92.5,Month-to-month,Yes
+3090-HAWSU,61,111.6,Two year,Yes
+1113-IUJYX,14,105.95,One year,Yes
+3005-NFMTA,55,98.8,Month-to-month,Yes
+8784-CGILN,18,99.85,Month-to-month,Yes
+2025-JKFWI,13,99.0,Month-to-month,Yes
+4078-SAYYN,11,100.75,Month-to-month,Yes
+9940-HPQPG,9,91.75,Month-to-month,Yes
+9079-YEXQJ,54,111.1,Month-to-month,Yes
+0402-CQAJN,37,101.9,Month-to-month,Yes
+6692-UDPJC,14,91.65,Month-to-month,Yes
+0295-PPHDO,1,95.45,Month-to-month,Yes
+1195-OIYEJ,13,91.1,Month-to-month,Yes
+7234-FECYN,8,101.35,Month-to-month,Yes
+1400-MMYXY,3,105.9,Month-to-month,Yes
+7142-HVGBG,43,103.0,Month-to-month,Yes
+8267-ZNYVZ,33,103.75,One year,Yes
+6797-LNAQX,70,98.3,Two year,Yes
+6394-MFYNG,48,107.4,Month-to-month,Yes
+0886-QGENL,27,101.25,Month-to-month,Yes
+7240-FQLHE,18,99.75,Month-to-month,Yes
+6664-FPDAC,56,111.95,One year,Yes
+3976-BWUCK,30,94.1,Month-to-month,Yes
+3585-ISXZP,8,95.65,Month-to-month,Yes
+0093-XWZFY,40,104.5,Month-to-month,Yes
+0639-TSIQW,67,102.95,Month-to-month,Yes
